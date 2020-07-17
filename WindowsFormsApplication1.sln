@@ -1,7 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{5C9584A7-A203-47B5-8B49-156E9774FD80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{F89EBCA4-FED8-4011-AC20-261BB4B8C299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{471DB797-F556-4948-822D-817B478B5CEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +19,19 @@ Global
 		{5C9584A7-A203-47B5-8B49-156E9774FD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C9584A7-A203-47B5-8B49-156E9774FD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C9584A7-A203-47B5-8B49-156E9774FD80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89EBCA4-FED8-4011-AC20-261BB4B8C299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89EBCA4-FED8-4011-AC20-261BB4B8C299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89EBCA4-FED8-4011-AC20-261BB4B8C299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89EBCA4-FED8-4011-AC20-261BB4B8C299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471DB797-F556-4948-822D-817B478B5CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471DB797-F556-4948-822D-817B478B5CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471DB797-F556-4948-822D-817B478B5CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471DB797-F556-4948-822D-817B478B5CEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F13380-1578-4D4B-A913-C05B7FC39680}
 	EndGlobalSection
 EndGlobal
