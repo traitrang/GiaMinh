@@ -1,0 +1,5 @@
+D:\GiaMinh\Project\GiaMinh\Controller\bin\Debug\Controller.dll
+D:\GiaMinh\Project\GiaMinh\Controller\bin\Debug\Controller.pdb
+D:\GiaMinh\Project\GiaMinh\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+D:\GiaMinh\Project\GiaMinh\Controller\obj\Debug\Controller.dll
+D:\GiaMinh\Project\GiaMinh\Controller\obj\Debug\Controller.pdb
