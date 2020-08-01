@@ -1,5 +1,4 @@
 D:\GiaMinh\Project\GiaMinh\Model\bin\Debug\Model.dll
 D:\GiaMinh\Project\GiaMinh\Model\bin\Debug\Model.pdb
-D:\GiaMinh\Project\GiaMinh\Model\obj\Debug\Model.csprojAssemblyReference.cache
 D:\GiaMinh\Project\GiaMinh\Model\obj\Debug\Model.dll
 D:\GiaMinh\Project\GiaMinh\Model\obj\Debug\Model.pdb

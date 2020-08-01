@@ -122,25 +122,25 @@
             // dmnhaccMenu
             // 
             this.dmnhaccMenu.Name = "dmnhaccMenu";
-            this.dmnhaccMenu.Size = new System.Drawing.Size(152, 22);
+            this.dmnhaccMenu.Size = new System.Drawing.Size(180, 22);
             this.dmnhaccMenu.Text = "Nhà Cung Cấp";
             // 
             // dmctyMenu
             // 
             this.dmctyMenu.Name = "dmctyMenu";
-            this.dmctyMenu.Size = new System.Drawing.Size(152, 22);
+            this.dmctyMenu.Size = new System.Drawing.Size(180, 22);
             this.dmctyMenu.Text = "Công Ty";
             // 
             // sanphamMenu
             // 
             this.sanphamMenu.Name = "sanphamMenu";
-            this.sanphamMenu.Size = new System.Drawing.Size(152, 22);
+            this.sanphamMenu.Size = new System.Drawing.Size(180, 22);
             this.sanphamMenu.Text = "Sản Phẩm";
             // 
             // ChuKyGiaMeNu
             // 
             this.ChuKyGiaMeNu.Name = "ChuKyGiaMeNu";
-            this.ChuKyGiaMeNu.Size = new System.Drawing.Size(152, 22);
+            this.ChuKyGiaMeNu.Size = new System.Drawing.Size(180, 22);
             this.ChuKyGiaMeNu.Text = "Chu Kỳ Giá";
             // 
             // BaoCaoMenu
@@ -194,37 +194,37 @@
             // thamsoMenu
             // 
             this.thamsoMenu.Name = "thamsoMenu";
-            this.thamsoMenu.Size = new System.Drawing.Size(169, 22);
+            this.thamsoMenu.Size = new System.Drawing.Size(180, 22);
             this.thamsoMenu.Text = "Tham Số";
             // 
             // doipassMenu
             // 
             this.doipassMenu.Name = "doipassMenu";
-            this.doipassMenu.Size = new System.Drawing.Size(169, 22);
+            this.doipassMenu.Size = new System.Drawing.Size(180, 22);
             this.doipassMenu.Text = "Đổi mật khẩu";
             // 
             // thongtindonviMenu
             // 
             this.thongtindonviMenu.Name = "thongtindonviMenu";
-            this.thongtindonviMenu.Size = new System.Drawing.Size(169, 22);
+            this.thongtindonviMenu.Size = new System.Drawing.Size(180, 22);
             this.thongtindonviMenu.Text = "Thông tin Đơn vị";
             // 
             // KhaibaoHouseMenu
             // 
             this.KhaibaoHouseMenu.Name = "KhaibaoHouseMenu";
-            this.KhaibaoHouseMenu.Size = new System.Drawing.Size(169, 22);
+            this.KhaibaoHouseMenu.Size = new System.Drawing.Size(180, 22);
             this.KhaibaoHouseMenu.Text = "Khai Báo House";
             // 
             // phanquyenMenu
             // 
             this.phanquyenMenu.Name = "phanquyenMenu";
-            this.phanquyenMenu.Size = new System.Drawing.Size(169, 22);
+            this.phanquyenMenu.Size = new System.Drawing.Size(180, 22);
             this.phanquyenMenu.Text = "Phân Quyền";
             // 
             // logMenu
             // 
             this.logMenu.Name = "logMenu";
-            this.logMenu.Size = new System.Drawing.Size(169, 22);
+            this.logMenu.Size = new System.Drawing.Size(180, 22);
             this.logMenu.Text = "Log Chương Trình";
             // 
             // helpToolStripMenuItem
@@ -259,6 +259,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(1216, 730);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
